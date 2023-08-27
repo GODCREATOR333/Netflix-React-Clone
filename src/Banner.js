@@ -22,8 +22,6 @@ function Banner() {
 
     }, [])
 
-    console.log(movie)
-
     function truncate(string, char_num) {
         return string?.length > char_num ? string.substr(0, char_num - 1) + "...." : string
     }

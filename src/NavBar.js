@@ -24,12 +24,8 @@ function NavBar() {
         <div className={(`navbar ${show && "navbar_black"}`)}>
             <div className='navbar_content'>
 
-                {/* <img className='navbar_logo'
-                    src='https://i0.wp.com/www.downloadfonts.io/wp-content/uploads/2021/09/Netflix-Logo-Font.png?fit=1024%2C581&ssl=1'
-                    alt='netflix logo' /> */}
-
                 <img onScroll={transitionNavBar} className='navbar_logo_transparent '
-                    src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png'
+                    src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
                     alt='netflix logo transparent' />
 
                 <img className='navbar_avatar'
