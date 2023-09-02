@@ -1,5 +1,6 @@
 import React from 'react'
 import "./loginscreenstyles.css"
+import SignUpScreen from './SignUpScreen'
 
 function LoginScreen() {
     return (
