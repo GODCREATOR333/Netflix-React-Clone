@@ -25,7 +25,7 @@ function NavBar() {
             <div className='navbar_content'>
 
                 <img onScroll={transitionNavBar} className='navbar_logo_transparent '
-                    src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
+                    src="https://1000logos.net/wp-content/uploads/2017/05/Netflix-Logo.png"
                     alt='netflix logo transparent' />
 
                 <img className='navbar_avatar'
