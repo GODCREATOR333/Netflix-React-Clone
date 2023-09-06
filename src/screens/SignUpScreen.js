@@ -46,8 +46,6 @@ function SignUpScreen() {
                     <span className='grey'>New to Netflix ? </span>
                     <span className='link' onClick={register}>Create Account.</span>
                 </h4>
-
-
             </form>
         </div>
     )
